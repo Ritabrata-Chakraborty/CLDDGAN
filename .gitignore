@@ -1,0 +1,4 @@
+# Ignore folders not to be tracked
+data/
+saved_info/
+autoencoder/weight/
